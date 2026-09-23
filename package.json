@@ -1,0 +1,12 @@
+{
+  "name": "oblix-prototype",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Oblix / OneHomes client testing prototype",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
